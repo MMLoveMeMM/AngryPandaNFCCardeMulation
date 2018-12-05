@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AngryPandaNFCCardeMulation</string>
+    <string name="service_name">nfc</string>
+    <string name="card_title">nfc lzb</string>
+</resources>
